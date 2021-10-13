@@ -47,14 +47,14 @@ section {
   background-color: #fff;
 }
 
-.top h2 {
+.top h1 {
   font-size: 1.3rem;
   font-weight: 700;
   color: var(--content-cyan);
   margin-bottom: 20px;
 }
 
-.top h3 {
+.top h2 {
   font-size: 1.1rem;
   color: var(--button-and-subtitle);
   font-weight: 700;
@@ -73,21 +73,21 @@ section {
   background-color: var(--content-cyan);
 }
 
-.middle h2 {
+.middle h1 {
   font-size: 1.2rem;
   font-weight: 700;
   color: #fff;
   margin-bottom: 20px;
 }
 
-.middle h4 {
+.middle h2 {
   color: #fff;
   font-size: 2.5rem;
   font-weight: 700;
   margin-bottom: 10px;
 }
 
-.middle h4 span {
+.middle h2 span {
   position: relative;
   top: -6px;
   color: var(--text-color);
@@ -126,14 +126,14 @@ section {
   background-color: #4abebd;
 }
 
-.bottom h2 {
+.bottom h1 {
   font-size: 1.2rem;
   color: #fff;
   margin-bottom: 20px;
 }
 
 .bottom p {
-  font-size: 1rem;
+  font-size: 0.9rem;
   color: var(--text-color);
   line-height: 1.4rem;
 }
